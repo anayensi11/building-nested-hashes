@@ -29,3 +29,20 @@ def fifth_challenge
   #Don't touch the following line! The method must return our newly modified epic tragedy hash
   epic_tragedy
 end
+
+
+			
+			
+def			#code your solution here:
+       epic_tragedy[:montague][:hero][:status]= "dead"
+
+		# 	epic_tragedy.each do | fam, members |
+		# 	members.each do | member, values |
+      #    if member == :hero || member == :heroine
+       epic_tragedy[:capulet][:heroine][:status]= "dead"
+      #    end
+      # end
+
+
+end
+
